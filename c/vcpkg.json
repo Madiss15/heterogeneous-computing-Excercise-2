@@ -1,0 +1,8 @@
+{
+  "dependencies": [
+    "fftw3",
+    "kissfft",
+    "pthread",
+    "opencl"
+  ]
+}
